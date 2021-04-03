@@ -1,1 +1,1 @@
-# hw1
+# hw1 This is my first homework assignment. Please refer to the index page, page 2, and page 3 for its contents.
